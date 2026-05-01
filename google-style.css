@@ -1,0 +1,12 @@
+body{
+    padding-left: 40%;
+    padding-top:20%;
+}
+input{
+    display: flex;
+    justify-content: center;
+    width:50%;
+    height: 30px;
+    border-radius: 200px;
+    margin-bottom:20px;
+}
