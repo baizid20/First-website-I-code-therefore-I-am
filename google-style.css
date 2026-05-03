@@ -1,26 +1,40 @@
 .search-input{
-    width:400px;
+    width:90%;
     display:block;
     margin-bottom: 50px;
-     margin-right: auto;
+    margin-right: auto;
     margin-left:auto;
+    height: 24px;
+    padding:30px 10px; 
+    border : 1px solid #dfe1d5;
+    border-radius:24px;
 }
 .my-google-logo-img{
-    width:350px;
-    display: block;
-    /* padding-bottom: 50px; */
-    margin-top:20px;
+    width:100%;   
+   
+}
+
+.img-div{
+    width:460px;
+    height:206px;
     margin-left: auto;
     margin-right: auto;
+    /* margin-bottom: 30px; */
 }
 
 body{
-    padding:5%;
+    padding:10% 5%;
+    text-align: center;
 }
 
-.main-btn{
-    margin-left: auto;
-    margin-right: auto;
-    width:100px;
-    padding:5px;
+.btn{
+    
+    margin-top:20px;
+
+    background-color: #dfe1d5;
+    border:1px solid white;
+    font-weight: bold;
+    padding:15px 26px;
+    font-size: medium;
+    border-radius: 10px;
 }
