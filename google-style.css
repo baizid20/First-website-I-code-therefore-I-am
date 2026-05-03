@@ -24,17 +24,24 @@
 
 body{
     padding:10% 5%;
-    text-align: center;
+   
 }
 
 .btn{
     
     margin-top:20px;
-
+     /* display: block; */
     background-color: #dfe1d5;
     border:1px solid white;
     font-weight: bold;
     padding:15px 26px;
     font-size: medium;
     border-radius: 10px;
+}
+.btn-wraper{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+    
+
 }
